@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/aidl/com/igniva/filemanager/IMyAidlInterface.aidl
+ * Original file: /home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/aidl/com/igniva/filemanager/IMyAidlInterface.aidl
  */
 package com.igniva.filemanager;
 // Declare any non-default types here with import statements

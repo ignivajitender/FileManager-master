@@ -288,5 +288,295 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/values-da-rDK/values-da-rDK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 112,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 168,
+                    "endColumn": 72,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 304,
+                        "endColumn": 72,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 55,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 55,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endColumn": 146,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 146,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 52,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 52,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 92,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 92,
+                        "endOffset": 721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 78,
+                    "endOffset": 664
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 726,
+                        "endColumn": 78,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 669,
+                    "endColumn": 108,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 805,
+                        "endColumn": 108,
+                        "endOffset": 909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 81,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 914,
+                        "endColumn": 81,
+                        "endOffset": 991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 155,
+                    "endOffset": 1011
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 996,
+                        "endColumn": 155,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1016,
+                    "endColumn": 77,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 77,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 52,
+                    "endOffset": 1142
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 52,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1147,
+                    "endColumn": 127,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 127,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 111,
+                    "endOffset": 1382
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 111,
+                        "endOffset": 1518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1387,
+                    "endColumn": 63,
+                    "endOffset": 1446
+                },
+                "from": {
+                    "file": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/res/values-da-rDK/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1523,
+                        "endColumn": 63,
+                        "endOffset": 1582
+                    }
+                }
+            }
+        ]
     }
 ]

@@ -19,7 +19,7 @@ public class PreferenceUtils {
     private static String VIOLET="#673ab7";
     private static String DARK_PINK="#e91e63";
     private static String ROYAL_BLUE="#03A9F4";
-    private static String DARK_BLUE="#2196F3";
+    private static String DARK_BLUE="#12aff6";
     private static String LIGHT_BLUE="#03A9F4";
     private static String CYAN="#00BCD4";
     private static String TEAL="#009688";
@@ -32,6 +32,7 @@ public class PreferenceUtils {
     private static String BLACK="#212121";
     private static String GREY="#607d8b";
     private static String SUPER_SU="#004d40";
+    private static String YELLOW = "#ffd600";
     // Colors Patch 1 END
 
     // Colors Patch 2
@@ -71,12 +72,12 @@ public class PreferenceUtils {
     public static final int DEFAULT_CURRENT_TAB = 1;
 
     public static int getStatusColor(String skin) {
-        int c=darker(Color.parseColor(skin),0.6f);
+        int c=darker(Color.parseColor(skin),0.1f);
         return c;
     }
 
     public static int getStatusColor(int skin) {
-        int c=darker(skin,0.6f);
+        int c=darker(skin,0.1f);
         return c;
     }
 
@@ -146,6 +147,10 @@ public class PreferenceUtils {
     public static String getFolderColorString(SharedPreferences Sp) {
         return (colors[getFolderColor(Sp)]);
     }
+    public static String getFolderTintColorString(SharedPreferences Sp) {
+        return (colors[18]);
+    }
+
     public static String getAccentString(SharedPreferences Sp) {
         return (colors[getAccent(Sp)]);
     }
@@ -243,7 +248,9 @@ public class PreferenceUtils {
                 BROWN,
                 BLACK,
                 GREY,
-                SUPER_SU
+                SUPER_SU,
+                YELLOW
+
         };
         public static final String LICENCE_TERMS = "<html><body>" +
             "<h3>Notices for files:</h3>" +

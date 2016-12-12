@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/circle.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/circle.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_album.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_album.png"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_insert_drive_file_white_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_insert_drive_file_white_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_sd_storage_white_56dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_sd_storage_white_56dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
@@ -20,16 +20,20 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_album.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_album.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/fab_add.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/res/drawable-xxhdpi/fab_add.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_card_pressed.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_grid_card_pressed.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/amaze_header_2.png",
@@ -40,56 +44,68 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_alert_circle_outline_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_up_black.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_up_black.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_insert_drive_file_white_48dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_insert_drive_file_white_48dp.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_image_dark.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_image_dark.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_content_paste_white_36dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_content_paste_white_36dp.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_event_am.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_event_am.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_certificate.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_certificate.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_cab_done_holo_dark.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/abc_ic_cab_done_holo_dark.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_pdf.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_pdf.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_apk.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_apk.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_image.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_image.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_up_white.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_up_white.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_clear_black.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_clear_black.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_pdf.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_pdf.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_white_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_settings_white_48dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_expand.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_action_expand.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_history_white_48dp.png",
@@ -100,10 +116,6 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
     },
@@ -112,16 +124,12 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_drawer_l.png"
     },
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_generic_am.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_generic_am.png"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/fab_add.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/res/drawable-xxhdpi/fab_add.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_grey600_48dp.png",
@@ -132,28 +140,32 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_down_black.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_apk_white.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_apk_white.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_apple_ios_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_apple_ios_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_down_white.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_down_white.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_account_circle_grey600_24dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_account_circle_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_delete_white_36dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_delete_white_36dp.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_star_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_star_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_event_am.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_event_am.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_text_am.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_text_am.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_video_am.png",
@@ -168,40 +180,24 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_star_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_text_am.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_text_am.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_video_dark.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_video_dark.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_compressed.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_compressed.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_codes.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_codes.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_select_all_white_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_select_all_white_36dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_arrow_back_white_48dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_arrow_back_white_48dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_flag_grey600_24dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_flag_grey600_24dp.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_doc_am.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_doc_am.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_content_paste_white_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_content_paste_white_36dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
@@ -210,6 +206,14 @@
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_insert_drive_file_white_36dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_insert_drive_file_white_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_card_focused.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_grid_card_focused.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
@@ -224,92 +228,88 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_drawer_root.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_drawer_root.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_image.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_image.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_refresh_white_48dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_refresh_white_48dp.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_account_circle_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_account_circle_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_cab_done_holo_dark.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/abc_ic_cab_done_holo_dark.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_gradient_bg.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_grid_gradient_bg.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_xda_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_xda_grey600_24dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_select_all_black_36dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_select_all_black_36dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_home_white_48dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_home_white_48dp.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_search.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_action_search.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_card_background.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_grid_card_background.9.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_content_cut_white_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_content_cut_white_36dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_content_cut_white_36dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_content_cut_white_36dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_audio_am.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_audio_am.png"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_about_dark.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_action_about_dark.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_about_dark.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_action_about_dark.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_font.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_font.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_google_circles_communities_grey600_24dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_google_circles_communities_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_drawer_root_white.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_drawer_root_white.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_history_grey600_24dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_history_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_star_white_18dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_star_white_18dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_certificate.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_certificate.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_compressed_black.png",
@@ -320,12 +320,8 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_arrow_back_white_36dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_bluetooth_black_24dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_settings_bluetooth_black_24dp.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_white_48dp.png",
@@ -336,20 +332,24 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_grid_card_background_dark.9.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/md_nav_back.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-xxhdpi-v4/md_nav_back.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_remote_white_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_settings_remote_white_48dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_more_vert_black_48dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_more_vert_black_48dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_sd_storage_white_56dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_sd_storage_white_56dp.png"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_down_white.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_down_white.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_presentation.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_presentation.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_bluetooth_white_36dp.png",
@@ -384,12 +384,16 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_new.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_action_new.png"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_xda_grey600_24dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_xda_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_overflow.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_action_overflow.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_compressed_black.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_compressed_black.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -416,36 +420,44 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_bug_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_search.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_action_search.png"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_arrow_back_white_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_arrow_back_white_48dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_history_white_24dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_history_white_24dp.png"
     },
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_codes.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_codes.png"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_generic_am.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_generic_am.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_overflow.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_action_overflow.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_remote_white_48dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_settings_remote_white_48dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_card_focused.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_grid_card_focused.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_history_white_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_history_white_48dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_clear_black.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_clear_black.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_new.png",
@@ -460,12 +472,524 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_dir_shadow_am.9.png"
     },
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_compressed.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_compressed.png"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_sort_white_48dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_sort_white_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_bluetooth_black_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_settings_bluetooth_black_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_apk.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_apk.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_spreadsheet_am.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_spreadsheet_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/circle.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/circle.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_album.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_album.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_apk_white.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_apk_white.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_refresh_white_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_refresh_white_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_card_pressed.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_grid_card_pressed.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/spinner_triangle.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/spinner_triangle.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_up_black.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_up_black.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_insert_drive_file_white_48dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_insert_drive_file_white_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_video_am.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_video_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_sort_white_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_sort_white_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_gradient_bg.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_grid_gradient_bg.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_home_white_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_home_white_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_content_paste_white_36dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_content_paste_white_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/md_nav_back.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-xxhdpi-v4/md_nav_back.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_certificate.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_certificate.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_pdf.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_pdf.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_image.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_image.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_card_background_dark.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_grid_card_background_dark.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_clear_white.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_clear_white.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_arrow_back_white_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_arrow_back_white_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_image_dark.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_image_dark.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_grey600_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_settings_grey600_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_expand.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_action_expand.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/folder_fab.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/folder_fab.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_expand.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_action_expand.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_insert_drive_file_white_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_insert_drive_file_white_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_apk_white.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_apk_white.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_doc_am.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_doc_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_save.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_action_save.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_bluetooth_white_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_settings_bluetooth_white_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_down_white.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_down_white.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_history_white_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_history_white_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_information_outline_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_information_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_drawer_root.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_drawer_root.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_delete_white_36dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_delete_white_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_event_am.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_event_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_flag_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_flag_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_text_am.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_text_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_compressed.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_compressed.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_codes.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_codes.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_flag_grey600_24dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_flag_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_doc_am.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_doc_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_spreadsheet_am.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_spreadsheet_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_drawer_root.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_drawer_root.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_up_black.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_up_black.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_refresh_white_48dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_refresh_white_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_more_vert_black_48dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_more_vert_black_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_cab_done_holo_dark.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_gradient_bg.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_grid_gradient_bg.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_home_white_48dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_home_white_48dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_audio_am.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_audio_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_content_copy_white_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_content_copy_white_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_delete_white_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_delete_white_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_audio_am.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_audio_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/circle.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/circle.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_drawer_root_white.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_drawer_root_white.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_history_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_history_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/drive.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/drive.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_linux_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_linux_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_keyboard_arrow_down_black.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_keyboard_arrow_down_black.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_drawer_l.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_drawer_l.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_settings_bluetooth_black_24dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_settings_bluetooth_black_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/md_nav_back.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-xxhdpi-v4/md_nav_back.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_sd_storage_white_56dp.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_sd_storage_white_56dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_overflow.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_action_overflow.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_contact_am.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_doc_contact_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_action_search.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_card_pressed.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_grid_card_pressed.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_drawer_root_white.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_drawer_root_white.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_generic_am.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_generic_am.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_google_circles_communities_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_google_circles_communities_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_grid_card_focused.9.png",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_grid_card_focused.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_alert_circle_outline_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_alert_circle_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_bug_grey600_24dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_bug_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_dir_shadow_am.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_dir_shadow_am.9.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_information_outline_grey600_24dp.png",
@@ -480,44 +1004,44 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_star_white_18dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_star_white_18dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_select_all_black_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/ic_select_all_black_36dp.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/spinner_triangle.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/spinner_triangle.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_sort_white_48dp.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_sort_white_48dp.png"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/amaze_header_2.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable-xxhdpi/amaze_header_2.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_clear_white.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_clear_white.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_apple_ios_grey600_24dp.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_apple_ios_grey600_24dp.png"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_apk.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_apk.png"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_font.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_font.png"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_spreadsheet_am.png",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-xxhdpi/ic_doc_spreadsheet_am.png"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-xxhdpi-v4/ic_doc_presentation.png",

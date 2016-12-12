@@ -139,7 +139,7 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_amber">#FFC107</color>
     <color name="accent_black">#212121</color>
-    <color name="accent_blue">#2196F3</color>
+    <color name="accent_blue">#12aff6</color>
     <color name="accent_blue_grey">#607d8b</color>
     <color name="accent_brown">#795548</color>
     <color name="accent_cyan">#00BCD4</color>
@@ -157,6 +157,7 @@
     <color name="accent_red">#F44336</color>
     <color name="accent_super_su">#004d40</color>
     <color name="accent_teal">#009688</color>
+    <color name="accent_yellow">#ffd600</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
@@ -230,7 +231,7 @@
     <color name="page_indicator_dark_selected">#ff333333</color>
     <color name="primary_amber">#FFC107</color>
     <color name="primary_black">#000000</color>
-    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue">#12aff6</color>
     <color name="primary_blue_grey">#607d8b</color>
     <color name="primary_brown">#795548</color>
     <color name="primary_cyan">#00BCD4</color>
@@ -2563,7 +2564,7 @@
     </style>
     <style name="menu_labels_style_light">
         <item name="android:textStyle">bold</item>
-        <item name="android:background">@drawable/fab_label_background</item>
+        <item name="android:background">@color/accent_yellow</item>
         <item name="android:textColor">#ffffff</item>
     </style>
     <style name="overflow_white1" parent="Theme.AppCompat.Light.DarkActionBar">

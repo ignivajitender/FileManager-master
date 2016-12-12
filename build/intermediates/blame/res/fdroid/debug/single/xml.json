@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/xml/color_prefs.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/xml/color_prefs.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/xml/preferences.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/xml/preferences.xml"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/xml/preferences.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/xml/preferences.xml"
     },

@@ -1,31 +1,239 @@
 [
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selected.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selected.xml"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_selector_dark.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_selector_dark.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/safr_ripple_black.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/safr_ripple_black.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/fastscroller_handle_pressed.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/fastscroller_handle_pressed.xml"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_edit_text_material.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_edit_text_material.xml"
     },
     {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/fastscroller_handle_pressed.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/fastscroller_handle_pressed.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_item_selected_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_item_selected_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/fastscroller_handle_pressed.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/fastscroller_handle_pressed.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selected.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selected.xml"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/spinner_row_light.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/spinner_row_light.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/design_fab_background.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selector_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/action_bar_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/action_bar_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/check_background.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/check_background.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/fab_label_background.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/fab_label_background.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/action_bar.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/action_bar.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/fab_label_background.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/fab_label_background.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/safr_ripple_white.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/safr_ripple_white.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/item_backgrund.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/item_backgrund.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selector_dark.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selector_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/sas.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/sas.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/ripple.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/ripple.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_transparent.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_transparent.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_item_selected_dark.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_item_selected_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/bg_card_normal.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/bg_card_normal.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/bg_card.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/fastscroller_handle_normal.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/fastscroller_handle_normal.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/fastscroller_handle_normal.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/fastscroller_handle_normal.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_item_selected.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_item_selected.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_transparent.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_transparent.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/bg_card_pressed.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/bg_card_pressed.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/ic_dir_shadow.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/ic_dir_shadow.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/bg.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/bg.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/action_bar_dark.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/action_bar_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_selector_dark.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_selector_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_item_background_holo_light.xml",
@@ -44,24 +252,16 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/check_background.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/item_doc_grid.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/item_doc_grid.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_text_cursor_material.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/fab_label_background.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/fab_label_background.xml"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/action_bar.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/action_bar.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/listitem1.xml",
@@ -76,16 +276,12 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/spinner_row_dark.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/safr_ripple_white.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/safr_ripple_white.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_btn_borderless_material.xml",
@@ -100,8 +296,8 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/ic_dir_shadow.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selector_dark.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selector_dark.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selector.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selector.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
@@ -112,32 +308,48 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/circle_shape.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/sas.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/sas.xml"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/ripple.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/ripple.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_item_selected.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_item_selected.xml"
     },
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/sas.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/sas.xml"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/safr_ripple_black.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/safr_ripple_black.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/spinner_row_light.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/spinner_row_light.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_item_background_holo_dark.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_btn_radio_material.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_item_selected_dark.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_item_selected_dark.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/safr_ripple_white.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/safr_ripple_white.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_selector.xml",
@@ -152,48 +364,48 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_fab_background.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/bg_card_normal.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/bg_card_normal.xml"
-    },
-    {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/item_doc_grid.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/item_doc_grid.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_cab_background_top_material.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/design_snackbar_background.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/drawable/design_snackbar_background.xml"
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/fastscroller_handle_normal.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/fastscroller_handle_normal.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/circle_shape.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/circle_shape.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_transparent.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_transparent.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selected_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selected_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_selector.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_selector.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selector.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selector.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_btn_selected_dark.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_btn_selected_dark.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/search_view_shape.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/search_view_shape.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/bg.xml",
@@ -204,8 +416,20 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/bg_card.xml"
     },
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/bg_card_normal.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/bg_card_normal.xml"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/bg_card_pressed.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/bg_card_pressed.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/ripple.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/ripple.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/md_selector_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable/md_selector_dark.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/item_backgrund.xml",
@@ -216,27 +440,43 @@
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_textfield_search_material.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/listitem1.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/listitem1.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/spinner_row_dark.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/spinner_row_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/saf.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/saf.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_dialog_material_background_light.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/saf.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/saf.xml"
     },
     {
-        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/action_bar_dark.xml",
-        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable/action_bar_dark.xml"
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable/action_bar.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/drawable/action_bar.xml"
     }
 ]

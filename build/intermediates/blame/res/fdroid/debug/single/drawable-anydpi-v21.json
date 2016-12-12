@@ -2,5 +2,9 @@
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-anydpi-v21/md_nav_back.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-anydpi-v21/md_nav_back.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-anydpi-v21/md_nav_back.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-anydpi-v21/md_nav_back.xml"
     }
 ]

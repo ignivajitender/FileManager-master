@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }

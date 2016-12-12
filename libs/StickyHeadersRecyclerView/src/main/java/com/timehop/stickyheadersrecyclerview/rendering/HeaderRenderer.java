@@ -12,7 +12,7 @@ import com.timehop.stickyheadersrecyclerview.util.OrientationProvider;
 /**
  * Responsible for drawing headers to the canvas provided by the item decoration
  */
-public class HeaderRenderer {
+public class  HeaderRenderer {
 
   private final DimensionCalculator mDimensionCalculator;
   private final OrientationProvider mOrientationProvider;

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/mipmap-xxhdpi-v4/ic_launcher.png",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }

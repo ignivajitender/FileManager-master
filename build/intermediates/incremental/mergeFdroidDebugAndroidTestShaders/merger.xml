@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/androidTest/shaders"/></dataSet><dataSet config="fdroid"><source path="/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/androidTestFdroid/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/androidTest/shaders"/></dataSet><dataSet config="fdroid"><source path="/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/androidTestFdroid/shaders"/></dataSet></merger>

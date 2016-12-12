@@ -200,7 +200,7 @@ public class Main extends android.support.v4.app.Fragment {
 
         fabSkin = PreferenceUtils.getAccentString(Sp);
         int icon = Sp.getInt(PreferenceUtils.KEY_ICON_SKIN, PreferenceUtils.DEFAULT_ICON);
-        iconskin = PreferenceUtils.getFolderColorString(Sp);
+        iconskin = PreferenceUtils.getFolderTintColorString(Sp);
         skin_color = Color.parseColor(BaseActivity.skin);
         skinTwoColor = Color.parseColor(BaseActivity.skinTwo);
         icon_skin_color = Color.parseColor(iconskin);
@@ -242,7 +242,7 @@ public class Main extends android.support.v4.app.Fragment {
         listView = (android.support.v7.widget.RecyclerView) rootView.findViewById(R.id.listView);
         mToolbarContainer = (AppBarLayout) getActivity().findViewById(R.id.lin);
         fastScroller = (FastScroller) rootView.findViewById(R.id.fastscroll);
-        fastScroller.setPressedHandleColor(Color.parseColor(fabSkin));
+        fastScroller.setPressedHandleColor(Color.parseColor(iconskin));
         listView.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View view, MotionEvent motionEvent) {

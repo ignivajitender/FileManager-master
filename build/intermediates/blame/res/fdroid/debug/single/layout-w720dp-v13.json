@@ -2,5 +2,9 @@
     {
         "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/layout-w720dp-v13/main_toolbar.xml",
         "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/layout-w720dp/main_toolbar.xml"
+    },
+    {
+        "merged": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/build/intermediates/res/merged/fdroid/debug/layout-w720dp-v13/main_toolbar.xml",
+        "source": "/home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/res/layout-w720dp/main_toolbar.xml"
     }
 ]

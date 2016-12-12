@@ -63,14 +63,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/fdroid/jni" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/fdroid/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/fdroid/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/jni" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/assets" type="java-test-resource" />
@@ -79,6 +71,14 @@
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/jni" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/build-types/debug/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/build-types/debug/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/build-types/debug/assets" type="java-resource" />
@@ -140,40 +140,38 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.4/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/org.sufficientlysecure/donations/2.3/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental-classes" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental-runtime-classes" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental-safeguard" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/incremental-verifier" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/instant-run-support" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/jniLibs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/reload-dex" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/pre-dexed" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
-      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/restart-dex" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/shaders" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/transforms" />
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/StickyHeadersRecyclerView/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.0/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/libs/StickyHeadersRecyclerView/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="ftpserver-core-1.1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" exported="" name="palette-v7-23.0.1" level="project" />
-    <orderEntry type="library" exported="" name="mina-core-2.0.13" level="project" />
     <orderEntry type="library" exported="" name="maven-scm-api-1.4" level="project" />
+    <orderEntry type="library" exported="" name="mina-core-2.0.13" level="project" />
     <orderEntry type="library" exported="" name="jcifs-1.3.18" level="project" />
     <orderEntry type="library" exported="" name="recyclerview-v7-23.2.1" level="project" />
     <orderEntry type="library" exported="" name="library-1.1.4" level="project" />
-    <orderEntry type="library" exported="" name="commons-vfs2-2.0" level="project" />
     <orderEntry type="library" exported="" name="regexp-1.3" level="project" />
+    <orderEntry type="library" exported="" name="commons-vfs2-2.0" level="project" />
     <orderEntry type="library" exported="" name="support-v4-23.2.1" level="project" />
     <orderEntry type="library" exported="" name="donations-2.3" level="project" />
     <orderEntry type="library" exported="" name="plexus-utils-1.5.6" level="project" />
     <orderEntry type="library" exported="" name="ftplet-api-1.1.0-SNAPSHOT" level="project" />
-    <orderEntry type="library" exported="" name="systembartint-1.0.3" level="project" />
     <orderEntry type="library" exported="" name="jsch-0.1.53" level="project" />
+    <orderEntry type="library" exported="" name="systembartint-1.0.3" level="project" />
     <orderEntry type="library" exported="" name="slf4j-api-1.7.21" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.2.1" level="project" />
     <orderEntry type="library" exported="" name="animated-vector-drawable-23.2.1" level="project" />
@@ -193,5 +191,8 @@
     <orderEntry type="library" exported="" name="play-services-basement-8.4.0" level="project" />
     <orderEntry type="library" exported="" name="commons-compress-1.10" level="project" />
     <orderEntry type="module" module-name="StickyHeadersRecyclerView" exported="" />
+    <orderEntry type="library" exported="" name="recyclerview-v7-22.1.0" level="project" />
+    <orderEntry type="library" exported="" name="support-annotations-22.1.0" level="project" />
+    <orderEntry type="library" exported="" name="support-v4-22.1.0" level="project" />
   </component>
 </module>

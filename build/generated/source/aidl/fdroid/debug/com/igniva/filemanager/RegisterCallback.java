@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/aidl/com/igniva/filemanager/RegisterCallback.aidl
+ * Original file: /home/igniva-android-21/AndroidStudioProjects/FileManager/FileManager-master/src/main/aidl/com/igniva/filemanager/RegisterCallback.aidl
  */
 package com.igniva.filemanager;
 public interface RegisterCallback extends android.os.IInterface

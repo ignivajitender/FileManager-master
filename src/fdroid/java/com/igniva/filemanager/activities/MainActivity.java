@@ -1671,9 +1671,9 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
                 return false;
             }
         });
-        drawerProfilePic = (RoundedImageView) drawerHeaderLayout.findViewById(R.id.profile_pic);
-        mGoogleName = (TextView) drawerHeaderLayout.findViewById(R.id.account_header_drawer_name);
-        mGoogleId = (TextView) drawerHeaderLayout.findViewById(R.id.account_header_drawer_email);
+      //  drawerProfilePic = (RoundedImageView) drawerHeaderLayout.findViewById(R.id.profile_pic);
+//        mGoogleName = (TextView) drawerHeaderLayout.findViewById(R.id.account_header_drawer_name);
+//        mGoogleId = (TextView) drawerHeaderLayout.findViewById(R.id.account_header_drawer_email);
         toolbar = (Toolbar) findViewById(R.id.action_bar);
         /* For SearchView, see onCreateOptionsMenu(Menu menu)*/
         TOOLBAR_START_INSET = toolbar.getContentInsetStart();
@@ -1686,7 +1686,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         //mDrawerLayout.setStatusBarBackgroundColor(Color.parseColor((currentTab==1 ? skinTwo : skin)));
         mDrawerList = (ListView) findViewById(R.id.menu_drawer);
-        drawerHeaderView.setBackgroundResource(R.drawable.amaze_header);
+        //drawerHeaderView.setBackgroundResource(R.drawable.amaze_header);
         //drawerHeaderParent.setBackgroundColor(Color.parseColor((currentTab==1 ? skinTwo : skin)));
         if (findViewById(R.id.tab_frame) != null) {
             mDrawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_OPEN, mDrawerLinear);
@@ -1884,8 +1884,9 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
         int folderskin = Color.parseColor(folder_skin);
         int fabskinpressed = (PreferenceUtils.getStatusColor(folder_skin));
         floatingActionButton = (FloatingActionMenu) findViewById(R.id.menu);
-        floatingActionButton.setMenuButtonColorNormal(R.color.accent_amber);
-        floatingActionButton.setMenuButtonColorPressed(fabSkinPressed);
+        floatingActionButton.setMenuButtonColorNormal(R.color.accent_yellow);
+        // floatingActionButton.setBackgroundColor(getResources().getColor(R.color.accent_yellow));
+        floatingActionButton.setMenuButtonColorPressed(R.color.accent_yellow);
 
         //if (theme1 == 1) floatingActionButton.setMen
         floatingActionButton.setOnMenuToggleListener(new FloatingActionMenu.OnMenuToggleListener() {
@@ -2339,7 +2340,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
                 if (Sp.getBoolean("plus_pic", false)) return;
                 String path = Sp.getString("drawer_header_path", null);
                 if (path == null) return;
-                drawerHeaderView.setBackgroundResource(R.drawable.amaze_header_2);
+              //  drawerHeaderView.setBackgroundResource(R.drawable.amaze_header_2);
             }
         }).run();
     }

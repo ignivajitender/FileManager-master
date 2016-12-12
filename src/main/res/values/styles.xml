@@ -17,7 +17,7 @@
 <resources>
     <style name="menu_labels_style_light">
         <item name="android:textStyle">bold</item>
-        <item name="android:background">@drawable/fab_label_background</item>
+        <item name="android:background">@color/accent_yellow</item>
         <item name="android:textColor">#ffffff</item>
     </style>
 
