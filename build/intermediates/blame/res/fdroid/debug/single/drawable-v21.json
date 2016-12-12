@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-v21/md_btn_selector_ripple.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_selector_ripple.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-v21/safr_ripple_black.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-v21/safr_ripple_black.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-v21/safr_ripple_white.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-v21/safr_ripple_white.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-v21/md_btn_selector_ripple_dark.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-v21/md_btn_shape.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/drawable-v21/md_btn_shape.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-v21/ripple.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/drawable-v21/ripple.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

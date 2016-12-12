@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/menu/contextual.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/menu/contextual.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/menu/item_extras.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/menu/item_extras.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/menu/app_options.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/menu/app_options.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/menu/empty.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/menu/empty.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/menu/apps_list.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/menu/apps_list.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/menu/activity_extra.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/menu/activity_extra.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/menu/text.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/menu/text.xml"
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/fade_in_top.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/anim/fade_in_top.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_popup_enter.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/fab_scale_down.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/res/anim/fab_scale_down.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/design_fab_in.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/popup_enter.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/anim/popup_enter.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/design_fab_out.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/res/anim/fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/slide_out_bottom.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/anim/slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/fab_scale_up.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_popup_exit.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/slide_in.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/anim/slide_in.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/fab_slide_out_to_right.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/res/anim/fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.clans/fab/1.6.1/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/slide_in_bottom.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/slide_out.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/design_snackbar_out.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/slide_in_top.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_fade_in.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/decelerate_cubic.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/anim/decelerate_cubic.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/design_snackbar_in.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/check_out.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/anim/check_out.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/popup_exit.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/anim/popup_exit.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/holder_anim.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/anim/holder_anim.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/check_in.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/anim/check_in.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/design/23.2.1/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/anim/abc_fade_out.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/anim/abc_fade_out.xml"
+    }
+]

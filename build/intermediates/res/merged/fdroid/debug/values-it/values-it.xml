@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="Extracting_fles">Estrazione file</string>
+    <string name="Yellow">Giallo</string>
+    <string name="Zipping_fles">Compressione file</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Vai in alto"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Altre opzioni"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fine"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Visualizza tutte"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Scegli un\'applicazione"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Cerca…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Cancella query"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Query di ricerca"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Cerca"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Invia query"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ricerca vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="about">Info</string>
+    <string name="aboutFileManager">Info su Amaze File Manager</string>
+    <string name="accent_color_summary">Imposta colore dei componenti più piccoli</string>
+    <string name="accent_color_title">Colore dettagli</string>
+    <string name="add">Aggiungi</string>
+    <string name="addbook">Aggiungi segnalibro</string>
+    <string name="addshortcut">Aggiungi collegamento</string>
+    <string name="addtobook">Aggiungi a segnalibro</string>
+    <string name="amber">Ambra</string>
+    <string name="anonymous">Anonimo</string>
+    <string name="apks">Apk</string>
+    <string name="app_name">Amaze File Manager</string>
+    <string name="apps">Gestione app</string>
+    <string name="archive">Archivio</string>
+    <string name="archive_extract_folder">Cartella di estrazione</string>
+    <string name="archive_preferences">Preferenze archivio</string>
+    <string name="archive_summary">
+Gli archivi verranno estratti in questa cartella. Quella di default è la cartella in cui l\'archivio è presente.
+</string>
+    <string name="archtext">
+Questo è un archivio. Quale operazione vorresti effettuare?
+</string>
+    <string name="ascending">Crescente</string>
+    <string name="atroot">Sei alla root</string>
+    <string name="audio">Audio</string>
+    <string name="authors">Autori</string>
+    <string name="back">Indietro</string>
+    <string name="back_summary">
+Abilita navigazione personalizzata in cima alle liste
+</string>
+    <string name="back_title">Naviga indietro</string>
+    <string name="backup">Backup</string>
+    <string name="basque_translation_title">Basco</string>
+    <string name="black">Nero</string>
+    <string name="blue">Blu</string>
+    <string name="blue_grey">Blu grigio</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bookmanag">Gestione segnalibri</string>
+    <string name="bookmarksadded">Segnalibri aggiunti</string>
+    <string name="books">Segnalibri</string>
+    <string name="brown">Marrone</string>
+    <string name="calculating">calcolo</string>
+    <string name="cancel">ANNULLA</string>
+    <string name="cant_read_file">Impossibile leggere il file</string>
+    <string name="cantlistfiles">Impossibile visualizzare file senza root</string>
+    <string name="card">UI a schede</string>
+    <string name="changegallerypath">Cambia percorso galleria</string>
+    <string name="changelog">Changelog</string>
+    <string name="chinese_translation_title">Cinese</string>
+    <string name="chooseUI">Seleziona elemento UI</string>
+    <string name="choose_color">Scegli colore</string>
+    <string name="circularicons">Usa icone circolari</string>
+    <string name="circularimages">Usa icone circolari per immagini e video</string>
+    <string name="clear">Pulisci</string>
+    <string name="close">Chiudi</string>
+    <string name="color_summary">Imposta i colori dei vari componenti della UI</string>
+    <string name="color_title">Colori</string>
+    <string name="colorize">Colora icone</string>
+    <string name="colorize_summary">
+Imposta colore statico delle icone. Non si sovrappone alle preferenze delle icone delle cartelle.
+</string>
+    <string name="colourednavigation">Barra di navigazione colorata</string>
+    <string name="colourednavigationsum">
+La barra verrà colorata a seconda della skin applicata
+</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Se il problema persiste, contatta lo sviluppatore per ricevere assistenza."</string>
+    <string name="compress">Comprimi</string>
+    <string name="confirm">Conferma</string>
+    <string name="contributors">Contribuenti</string>
+    <string name="copy">Copia</string>
+    <string name="copy_path">Copia percorso</string>
+    <string name="copying">Copia</string>
+    <string name="copying_fles">Copia file</string>
+    <string name="copyingapk">Copia apk a</string>
+    <string name="create">CREA</string>
+    <string name="cut">Sposta</string>
+    <string name="cyan">Ciano</string>
+    <string name="dark">Material (scuro)</string>
+    <string name="database">Database</string>
+    <string name="databasereader">Visualizzazione database</string>
+    <string name="date">Data:</string>
+    <string name="daytime">Luce del giorno</string>
+    <string name="deep_orange">Arancione scuro</string>
+    <string name="deep_purple">Viola scuro</string>
+    <string name="defualt">Default</string>
+    <string name="delete">Elimina</string>
+    <string name="deleting">Eliminazione</string>
+    <string name="descending">Decrescente</string>
+    <string name="detailedView">Vista dettagliata</string>
+    <string name="details">Dettagli</string>
+    <string name="directories">Cartelle</string>
+    <string name="directorysort">Modalità ordinamento cartelle</string>
+    <string name="documents">Documenti</string>
+    <string name="doforall">Per tutti gli elementi</string>
+    <string name="doit">Fallo</string>
+    <string name="donate">Dona</string>
+    <string name="donations__alert_dialog_no_browser">Non è stato trovato un browser per aprire un sito internet!</string>
+    <string name="donations__alert_dialog_title">Si è verificato un errore</string>
+    <string name="donations__button_close">Chiudi</string>
+    <string name="donations__description">Pensi che questa applicazione sia utile?\nSupporta il suo sviluppo mandando una donazione allo sviluppatore!</string>
+    <string name="donations__flattr">Flattr</string>
+    <string name="donations__flattr_description">Flattr riceve il 10% come canone mensile!</string>
+    <string name="donations__google_android_market">Google Play Store</string>
+    <string name="donations__google_android_market_description">Google riceve il 30% di ogni donazione!</string>
+    <string name="donations__google_android_market_donate_button">Dona!</string>
+    <string name="donations__google_android_market_not_supported">Donazioni In-App non supportate. Google Play Store è installato correttamente?</string>
+    <string name="donations__google_android_market_not_supported_title">Le donazioni in-app non sono supportate.</string>
+    <string name="donations__google_android_market_text">Quanto?</string>
+    <string name="donations__paypal">PayPal</string>
+    <string name="donations__paypal_description">Puoi scegliere quanto donare dopo aver premuto il pulsante!</string>
+    <string name="donations__thanks_dialog">Grazie per la donazione!\nLo apprezzo molto!</string>
+    <string name="donations__thanks_dialog_title">Grazie!</string>
+    <string name="done">Fatto</string>
+    <string name="drawer_close">Chiudi navigazione</string>
+    <string name="drawer_open">Apri navigazione</string>
+    <string name="efn">Inserisci nome file</string>
+    <string name="enablerootmde">Abilità modalità root</string>
+    <string name="enterfile">Nome file</string>
+    <string name="entername">Inserisci nome</string>
+    <string name="enternewname">Inserisci nuovo nome</string>
+    <string name="enterpath">Inserisci percorso</string>
+    <string name="enterzipname">Inserisci nome zip</string>
+    <string name="error">Errore</string>
+    <string name="exit">Esci</string>
+    <string name="extract">Estrai</string>
+    <string name="extracting">Estrazione</string>
+    <string name="extstorage">Archiviazione esterna</string>
+    <string name="fab_skin">Aspetto bottone</string>
+    <string name="feedback">Feedback</string>
+    <string name="file">File</string>
+    <string name="file_empty">Il file è vuoto</string>
+    <string name="filecreated">File creato</string>
+    <string name="fileexist">Un file con quel nome esiste già</string>
+    <string name="fileexplorer">Sfoglia file</string>
+    <string name="filenotexists">Il file non esiste</string>
+    <string name="files">File</string>
+    <string name="filesOnTop">File in cima</string>
+    <string name="folder">Cartella</string>
+    <string name="foldercolor">Colore cartella</string>
+    <string name="foldercreated">Cartella creata</string>
+    <string name="folders">Cartelle</string>
+    <string name="foldersOnTop">Cartelle in cima</string>
+    <string name="free">Libero :</string>
+    <string name="french_translation_title">Francese</string>
+    <string name="fullChangelog">Changelog completo</string>
+    <string name="g_plus_community_title">Community Google+</string>
+    <string name="gallery">Galleria</string>
+    <string name="general">Generale</string>
+    <string name="generating">Generando...</string>
+    <string name="german_translation_title">Tedesco</string>
+    <string name="goback">Indietro</string>
+    <string name="gplus_pic_summary">Mostra immagine profilo e copertina nel drawer</string>
+    <string name="gplus_pic_title">Entra con Google+</string>
+    <string name="greek_translation_title">Greco</string>
+    <string name="green">Verde</string>
+    <string name="gridcolumnno">Numero di colonne in vista griglia</string>
+    <string name="gridview">Visualizzazione griglia</string>
+    <string name="guide1">Benvenuto in Amaze File Manager</string>
+    <string name="guide2">
+Tocca la striscia blu per mostrare o nascondere la barra del percorso
+</string>
+    <string name="guide3">
+Tocca e tieni premuto qualsiasi file per ulteriori opzioni
+</string>
+    <string name="guide4">Come copia, spostamento, proprietà, eccetera</string>
+    <string name="guide5">Usa il tasto indietro per uscire...</string>
+    <string name="guide6">
+...e la freccia sinistra per la navigazione nel file manager
+</string>
+    <string name="hidden">Mostra file e cartelle nascoste</string>
+    <string name="hiddenfiles">File nascosti</string>
+    <string name="hide">Nascondi</string>
+    <string name="hide_appbar">Intera barra dell\'app</string>
+    <string name="hide_mode_app_bar">La barra dell\'app si nasconde allo scroll</string>
+    <string name="hide_mode_nothing">La barra dell\'app rimane intatta</string>
+    <string name="hide_mode_title">Nascondi</string>
+    <string name="hide_mode_toolbar">La barra degli strumenti si nasconde allo scroll</string>
+    <string name="hide_toolbar">Barra degli strumenti</string>
+    <string name="history">Cronologia</string>
+    <string name="home">Home</string>
+    <string name="icon">icona</string>
+    <string name="icon_color_summary">Imposta colore delle icone</string>
+    <string name="icon_color_title">Colore icone</string>
+    <string name="icon_credits">
+Grafica di <a href="http://cookicons.co/">CookIcons</a>
+</string>
+    <string name="image">Immagine</string>
+    <string name="imagegallery">Galleria immagini</string>
+    <string name="images">Immagini</string>
+    <string name="in_safe">Spazio insufficiente</string>
+    <string name="indigo">Indaco</string>
+    <string name="install">Installa</string>
+    <string name="invalid_dir">Cartella non valida</string>
+    <string name="italian_translation_title">Italiano</string>
+    <string name="item">Elemento</string>
+    <string name="items">Elementi</string>
+    <string name="itemsselected">Elementi selezionati</string>
+    <string name="korean_translation_title">Coreano</string>
+    <string name="lastModified">Ultima modifica</string>
+    <string name="lastModifiedDesc">Ultima modifica (decrescente)</string>
+    <string name="lastModifiedPref">Mostra ultime modifiche</string>
+    <string name="lastModifiedSummary">Mostra data ed ora delle ultime modifiche</string>
+    <string name="license">Licenza open source</string>
+    <string name="light">Material (chiaro)</string>
+    <string name="light_blue">Azzurro</string>
+    <string name="light_green">Verde chiaro</string>
+    <string name="listview">Visualizzazione lista</string>
+    <string name="loading">Caricamento...</string>
+    <string name="location">Posizione:</string>
+    <string name="maintab">La scheda principale non può essere rimossa</string>
+    <string name="md5">md5:</string>
+    <string name="md5_2">Copia md5</string>
+    <string name="md5copied">MD5 copiato</string>
+    <string name="miscellaneous">Altro</string>
+    <string name="mountsystem">Monta le cartelle di sistema come scrivibili</string>
+    <string name="mountsystemsummary">Abilita se vuoi modificare i file di sistema</string>
+    <string name="moving">Spostamento</string>
+    <string name="name">Nome:</string>
+    <string name="needsaccess">Permessi di scrittura richiesti</string>
+    <string name="needsaccesssummary">Seleziona la cartella root di \t</string>
+    <string name="needsaccesssummary1">\tper permettere la scrittura</string>
+    <string name="new_string">Nuova</string>
+    <string name="newfile">Nuovo file</string>
+    <string name="newfolder">Nuova cartella</string>
+    <string name="newhomedirectory">Nuova cartella principale</string>
+    <string name="no">No</string>
+    <string name="no_cover_photo">Nessuna immagine di copertina</string>
+    <string name="no_file_overwrite">Nessuna sovrascrittura</string>
+    <string name="noappfound">Nessuna app trovata per aprire questo file</string>
+    <string name="nofiles">Nessun file</string>
+    <string name="none">Nulla</string>
+    <string name="noneOnTop">Nulla in cima</string>
+    <string name="not_allowed">Non permesso</string>
+    <string name="ok">OK</string>
+    <string name="open">Apri</string>
+    <string name="openas">Apri come</string>
+    <string name="openparent">Apri cartella superiore</string>
+    <string name="openwith">Apri con</string>
+    <string name="orange">Arancione</string>
+    <string name="other">Altro</string>
+    <string name="overwrite">Sovrascrivi</string>
+    <string name="packageinstaller">Package Installer</string>
+    <string name="password">Password</string>
+    <string name="paste">Incolla</string>
+    <string name="pathcopied">Percorso copiato</string>
+    <string name="permission">Permessi</string>
+    <string name="pick_a_file">Seleziona un file</string>
+    <string name="pink">Rosa</string>
+    <string name="pitext">
+Questo è un package installer. Quale operazione vorresti effettuare?
+</string>
+    <string name="play">Play Store</string>
+    <string name="polish_translation_title">Polacco</string>
+    <string name="portuguese_translation_title">Portoghese</string>
+    <string name="pressagain">Premi di nuovo per uscire</string>
+    <string name="primary_color_summary">Imposta colore dei componenti più grandi</string>
+    <string name="primary_color_title">Colore primario</string>
+    <string name="process_viewer">Visualizza processi</string>
+    <string name="processes">Processi</string>
+    <string name="properties">Proprietà</string>
+    <string name="purple">Viola</string>
+    <string name="questiondelete">Vuoi davvero eliminare i seguenti file?</string>
+    <string name="random">Skin casuale</string>
+    <string name="randomDialog">Casuale</string>
+    <string name="random_summary">Imposta colore primario casuale all\'avvio</string>
+    <string name="rate">Vota l\'app</string>
+    <string name="red">Rosso</string>
+    <string name="refresh">Aggiorna</string>
+    <string name="rename">Rinomina</string>
+    <string name="renamed">Rinomina riuscita</string>
+    <string name="renameerror">Rinomina fallita</string>
+    <string name="rootPref">Mostra permessi</string>
+    <string name="rootPrefSummary">Mostra permessi di file e cartelle</string>
+    <string name="rootdirectory">Root</string>
+    <string name="rootfailure">Accesso root non abilitato</string>
+    <string name="rootmode">Sfoglia root</string>
+    <string name="rootmodesummary">
+Solo per dispositivi con root. Abilita solo se sai quello che stai facendo.
+</string>
+    <string name="russian_translation_title">Russo</string>
+    <string name="save">Salva</string>
+    <string name="savepaths">Ricorda percorsi</string>
+    <string name="savepathsummary">
+All\'avvio, la cartella più recente per ogni scheda verrà mostrata
+</string>
+    <string name="saving">Salvataggio</string>
+    <string name="sd_card_grant_first">sd_card_grant_first</string>
+    <string name="sd_card_grant_next">sd_card_grant_next</string>
+    <string name="search">Cerca</string>
+    <string name="searching">Ricerca</string>
+    <string name="searchpath">Cerca percorso</string>
+    <string name="searchresults">Risultati ricerca</string>
+    <string name="select">Seleziona elemento</string>
+    <string name="select_intent">Seleziona</string>
+    <string name="selectall">Seleziona tutto</string>
+    <string name="serbian_translation_title">Serbo</string>
+    <string name="set">Imposta</string>
+    <string name="setRandom">
+I cambiamenti saranno effettivi dopo il riavvio dell\'app
+</string>
+    <string name="setashome">Imposta come home</string>
+    <string name="setgridview">Impostazioni griglia</string>
+    <string name="sethome">Imposta cartella principale</string>
+    <string name="setlistview">Impostazioni lista</string>
+    <string name="setringtone">Imposta come suoneria</string>
+    <string name="setting">Impostazioni</string>
+    <string name="share">Condividi</string>
+    <string name="showDividers">Mostra divisori</string>
+    <string name="simple">UI base</string>
+    <string name="simpleView">Vista semplice</string>
+    <string name="size">Dimensioni:</string>
+    <string name="sizePref">Mostra dimensioni</string>
+    <string name="sizePrefSummary">
+Mostra dimensioni dei file e numero di elementi nelle cartelle
+</string>
+    <string name="skin">Skin</string>
+    <string name="skip">Salta</string>
+    <string name="smb_con">Connessione SMB</string>
+    <string name="smb_server">Server: IP o IP/SharedFolder</string>
+    <string name="sort">Ordina</string>
+    <string name="sortName">Nome</string>
+    <string name="sortNameDesc">Nome (decrescente)</string>
+    <string name="sortSize">Dimensioni</string>
+    <string name="sortSizeDesc">Dimensioni (decrescente)</string>
+    <string name="sortby">Ordina per</string>
+    <string name="spanish_translation_title">Spagnolo</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stopping">Interruzione</string>
+    <string name="storage">Archiviazione</string>
+    <string name="success">Successo</string>
+    <string name="supersu">SuperSU</string>
+    <string name="tab">Scheda</string>
+    <string name="tables">Tabelle</string>
+    <string name="tapnhold">
+Tieni premuto un file od una cartella per altre opzioni
+</string>
+    <string name="teal">Celeste</string>
+    <string name="text">Testo</string>
+    <string name="textreader">Visualizzazione testo</string>
+    <string name="theme">Tema</string>
+    <string name="thumb">Mostra anteprime</string>
+    <string name="thumbSummary">Mostra anteprime di app ed immagini</string>
+    <string name="topFab">Bottone sulla barra dell\'app</string>
+    <string name="topFabS">
+Posizione del bottone \'+\'. Applicabile se la barra dell\'app non è nascosta.
+</string>
+    <string name="total">Totale:</string>
+    <string name="totalitems">Elementi totali:</string>
+    <string name="translators">Traduttori</string>
+    <string name="turkish_translation_title">Turco</string>
+    <string name="type">Tipo</string>
+    <string name="typeDesc">Tipo (decrescente)</string>
+    <string name="ui">Interfaccia</string>
+    <string name="uimode">Modalità UI</string>
+    <string name="ukrainian_translation_title">Ucraino</string>
+    <string name="unin_system_apk">
+Questa è un\'app di sistema, eliminarla potrebbe causare malfunzionamenti.\nProcedere?
+</string>
+    <string name="uninstall">Disinstalla</string>
+    <string name="unsavedchanges">Cambiamenti non salvati</string>
+    <string name="unsavedchangesdesc">
+Hai modifiche non salvate, vuoi salvare prima di uscire?
+</string>
+    <string name="used">In uso :</string>
+    <string name="usedefaultgallerypath">Usa percorso galleria predefinito</string>
+    <string name="username">Username</string>
+    <string name="version">Versione</string>
+    <string name="video">Video</string>
+    <string name="videos">Video</string>
+    <string name="view">Visualizza</string>
+    <string name="viewmode">Modalità visualizzazione</string>
+    <string name="wanthelp">
+<u>Serve aiuto?</u>
+</string>
+    <string name="warning">Attenzione</string>
+    <string name="xda_summary">Q&amp;A, Aiuto &amp; Risoluzione problemi</string>
+    <string name="xda_title">XDA</string>
+    <string name="yes">Sì</string>
+    <string name="zip_create_folder">Cartella di creazione zip</string>
+    <string name="zip_summary">
+I nuovi zip verranno creati in questa cartella. Quella di default è la cartella in cui l\'archivio è presente.
+</string>
+    <string name="zip_viewer">Visualizza zip</string>
+    <string name="zipping">Compressione</string>
+</resources>

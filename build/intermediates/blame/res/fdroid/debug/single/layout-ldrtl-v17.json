@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/layout-ldrtl-v17/md_listitem_singlechoice.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/layout-ldrtl-v17/md_listitem_singlechoice.xml"
+    },
+    {
+        "merged": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/layout-ldrtl-v17/md_listitem_multichoice.xml",
+        "source": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/exploded-aar/com.github.afollestad.material-dialogs/core/0.8.5.5/res/layout-ldrtl-v17/md_listitem_multichoice.xml"
+    }
+]

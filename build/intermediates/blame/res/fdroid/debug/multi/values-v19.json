@@ -1,0 +1,154 @@
+[
+    {
+        "outputFile": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/build/intermediates/res/merged/fdroid/debug/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2790,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 2975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endLine": 50,
+                        "endColumn": 12,
+                        "endOffset": 2327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1356
+                },
+                "from": {
+                    "file": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1361,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2618,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 2784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1490,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2061
+                },
+                "from": {
+                    "file": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1212,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2066,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2347
+                },
+                "from": {
+                    "file": "/home/igniva-android-13/AndroidStudioProjects/AmazeFileManager-master/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2332,
+                        "endLine": 56,
+                        "endColumn": 12,
+                        "endOffset": 2613
+                    }
+                }
+            }
+        ]
+    }
+]
