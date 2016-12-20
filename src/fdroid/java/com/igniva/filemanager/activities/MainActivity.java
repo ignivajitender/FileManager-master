@@ -183,6 +183,8 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
     HistoryManager history, grid;
     Futils utils;
 
+    private AdView mAdView;
+
     MainActivity mainActivity = this;
     public DrawerAdapter adapter;
     IconUtils util;
@@ -199,7 +201,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
     IMyAidlInterface aidlInterface;
     MaterialDialog materialDialog;
     String newPath = null;
-    boolean backPressedToExitOnce = false;
+   public static boolean backPressedToExitOnce = false;
     Toast toast = null;
     ActionBarDrawerToggle mDrawerToggle;
     Intent intent;
@@ -421,6 +423,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
                     Color.parseColor((currentTab == 1 ? skinTwo : skin)));
             ((Activity) this).setTaskDescription(taskDescription);
         }
+        showBannerAdd();
     }
 
     /**
@@ -519,6 +522,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
             if (searchViewLayout.isShown()) {
                 // hide search view if visible, with an animation
                 hideSearchView();
+
             } else if (name.contains("TabFragment")) {
                 if (floatingActionButton.isOpened()) {
                     floatingActionButton.close(true);
@@ -567,6 +571,8 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
             paste.setVisible(false);
         }
     }
+
+
 
     public void exit() {
         if (backPressedToExitOnce) {
@@ -1884,8 +1890,8 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
         int folderskin = Color.parseColor(folder_skin);
         int fabskinpressed = (PreferenceUtils.getStatusColor(folder_skin));
         floatingActionButton = (FloatingActionMenu) findViewById(R.id.menu);
-        floatingActionButton.setMenuButtonColorNormal(R.color.accent_yellow);
-        // floatingActionButton.setBackgroundColor(getResources().getColor(R.color.accent_yellow));
+        floatingActionButton.setMenuButtonColorNormal(getResources().getColor(R.color.accent_yellow));
+        //floatingActionButton.setBackgroundColor(getResources().getColor(R.color.accent_yellow));
         floatingActionButton.setMenuButtonColorPressed(R.color.accent_yellow);
 
         //if (theme1 == 1) floatingActionButton.setMen
@@ -1899,7 +1905,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
         });
 
         FloatingActionButton floatingActionButton1 = (FloatingActionButton) findViewById(R.id.menu_item);
-        floatingActionButton1.setColorNormal(folderskin);
+        floatingActionButton1.setColorNormal(getResources().getColor(R.color.accent_dark_yellow));
         floatingActionButton1.setColorPressed(fabskinpressed);
         floatingActionButton1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -1910,7 +1916,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
             }
         });
         FloatingActionButton floatingActionButton2 = (FloatingActionButton) findViewById(R.id.menu_item1);
-        floatingActionButton2.setColorNormal(folderskin);
+        floatingActionButton2.setColorNormal(getResources().getColor(R.color.accent_dark_yellow));
         floatingActionButton2.setColorPressed(fabskinpressed);
         floatingActionButton2.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -1921,7 +1927,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
             }
         });
         FloatingActionButton floatingActionButton3 = (FloatingActionButton) findViewById(R.id.menu_item2);
-        floatingActionButton3.setColorNormal(folderskin);
+        floatingActionButton3.setColorNormal(getResources().getColor(R.color.accent_dark_yellow));
         floatingActionButton3.setColorPressed(fabskinpressed);
         floatingActionButton3.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -1932,7 +1938,8 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
             }
         });
         final FloatingActionButton floatingActionButton4 = (FloatingActionButton) findViewById(R.id.menu_item3);
-        floatingActionButton4.setColorNormal(folderskin);
+        floatingActionButton4.setColorNormal(getResources().getColor(R.color.accent_dark_yellow));
+        floatingActionButton4.setColorNormal(getResources().getColor(R.color.accent_dark_yellow));
         floatingActionButton4.setColorPressed(fabskinpressed);
         floatingActionButton4.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -2597,6 +2604,24 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
         mainFragment.createViews(mainFragment.LIST_ELEMENTS, false, mainFragment.CURRENT_PATH,
                 mainFragment.openMode, false, !mainFragment.IS_LIST);
         mainFragment.mSwipeRefreshLayout.setRefreshing(false);
+    }
+    private void showBannerAdd() {
+        try {
+
+            mAdView = (AdView) findViewById(R.id.adView);
+
+            AdRequest adRequest = new AdRequest.Builder()
+                    .build();
+            mAdView.loadAd(adRequest);
+
+        }catch (Exception e){
+
+            e.printStackTrace();
+
+         //   MyApplication.getInstance().trackEvent(TRACK_LOG,"banner add",e.getMessage());
+
+        }
+
     }
 
 }

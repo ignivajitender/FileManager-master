@@ -63,14 +63,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/fdroid/jni" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/fdroid/rs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/fdroid/shaders" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/res" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/assets" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/aidl" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/jni" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/rs" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/res" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/resources" type="java-test-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/assets" type="java-test-resource" />
@@ -79,6 +71,14 @@
       <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/jni" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/rs" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/testFdroid/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/androidTestFdroid/shaders" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/build-types/debug/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/build-types/debug/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/build-types/debug/assets" type="java-resource" />
@@ -155,7 +155,7 @@
       <excludeFolder url="file://$MODULE_DIR$/libs/StickyHeadersRecyclerView/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.1.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/libs/StickyHeadersRecyclerView/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.0/jars" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 23 Platform (1)" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="ftpserver-core-1.1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" exported="" name="palette-v7-23.0.1" level="project" />
@@ -180,8 +180,8 @@
     <orderEntry type="library" exported="" name="appcompat-v7-23.2.1" level="project" />
     <orderEntry type="library" exported="" name="core-0.8.5.5" level="project" />
     <orderEntry type="library" exported="" name="play-services-ads-8.4.0" level="project" />
-    <orderEntry type="library" exported="" name="maven-scm-provider-svnexe-1.4" level="project" />
     <orderEntry type="library" exported="" name="slf4j-simple-1.7.21" level="project" />
+    <orderEntry type="library" exported="" name="maven-scm-provider-svnexe-1.4" level="project" />
     <orderEntry type="library" exported="" name="design-23.2.1" level="project" />
     <orderEntry type="library" exported="" name="cardview-v7-23.2.1" level="project" />
     <orderEntry type="library" exported="" name="maven-scm-provider-svn-commons-1.4" level="project" />

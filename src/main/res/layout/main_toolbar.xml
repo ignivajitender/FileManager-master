@@ -18,9 +18,10 @@
     -->
 
 <android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
-   
+
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -30,14 +31,24 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:clipChildren="false">
-
-
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_alignParentBottom="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/banner_home_footer">
+        </com.google.android.gms.ads.AdView>
         <FrameLayout
             android:id="@+id/content_frame"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
 
-            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" >
+
+
+        </FrameLayout>
 
         <android.support.design.widget.AppBarLayout
             android:id="@+id/lin"
@@ -216,6 +227,8 @@
             android:clickable="true"
             android:visibility="gone" />
 
+
+
         <com.github.clans.fab.FloatingActionMenu
             android:id="@+id/menu"
             android:layout_width="wrap_content"
@@ -229,7 +242,7 @@
             fab:menu_animationDelayPerItem="50"
             fab:menu_buttonSpacing="5dp"
 
-            fab:menu_backgroundColor="@color/accent_yellow"
+            fab:menu_backgroundColor="@android:color/transparent"
             fab:menu_colorNormal="@color/accent_yellow"
             fab:menu_colorPressed="#E75043"
             fab:menu_colorRipple="#99FFFFFF"
@@ -463,6 +476,8 @@
 
 
     </com.igniva.filemanager.ui.views.ScrimInsetsRelativeLayout>
+
+
     <!--
     <ListView
         android:id="@+id/right_drawer"

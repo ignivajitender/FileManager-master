@@ -139,10 +139,11 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_amber">#FFC107</color>
     <color name="accent_black">#212121</color>
-    <color name="accent_blue">#12aff6</color>
+    <color name="accent_blue">#04a6ef</color>
     <color name="accent_blue_grey">#607d8b</color>
     <color name="accent_brown">#795548</color>
     <color name="accent_cyan">#00BCD4</color>
+    <color name="accent_dark_yellow">#ffc400</color>
     <color name="accent_deep_orange">#FF5722</color>
     <color name="accent_deep_purple">#673ab7</color>
     <color name="accent_green">#4CAF50</color>
@@ -157,7 +158,7 @@
     <color name="accent_red">#F44336</color>
     <color name="accent_super_su">#004d40</color>
     <color name="accent_teal">#009688</color>
-    <color name="accent_yellow">#ffd600</color>
+    <color name="accent_yellow">#ffc400</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
@@ -2037,6 +2038,15 @@
         <item name="android:windowEnterAnimation">@anim/popup_enter</item>
         <item name="android:windowExitAnimation">@anim/popup_exit</item>
     </style>
+    <style name="MenuButtonsStyle">
+        <item name="fab_size">mini</item>
+        <!--<item name="fab_showAnimation">@anim/jump_from_down</item>-->
+        <!--<item name="fab_hideAnimation">@anim/jump_to_down</item>-->
+        <item name="fab_shadowColor">#444</item>
+        <item name="fab_colorNormal">@color/accent_yellow</item>
+        <item name="fab_colorPressed">@color/accent_yellow</item>
+        <item name="fab_colorRipple">@color/accent_yellow</item>
+    </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
 
@@ -2564,7 +2574,7 @@
     </style>
     <style name="menu_labels_style_light">
         <item name="android:textStyle">bold</item>
-        <item name="android:background">@color/accent_yellow</item>
+        <item name="android:background">@drawable/fab_label_background</item>
         <item name="android:textColor">#ffffff</item>
     </style>
     <style name="overflow_white1" parent="Theme.AppCompat.Light.DarkActionBar">

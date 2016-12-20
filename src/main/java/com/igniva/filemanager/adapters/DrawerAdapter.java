@@ -22,6 +22,7 @@ package com.igniva.filemanager.adapters;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.graphics.Color;
+import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
 import android.util.SparseBooleanArray;
 import android.view.LayoutInflater;
@@ -166,8 +167,11 @@ public class DrawerAdapter extends ArrayAdapter<Item> {
                 if (m.theme1 == 0)
                     view.setBackgroundColor(Color.parseColor("#ffeeeeee"));
                 else view.setBackgroundColor(Color.parseColor("#ff424242"));
-                imageView.setColorFilter(fabskin);
-                txtTitle.setTextColor(Color.parseColor(BaseActivity.accentSkin));
+                imageView.setColorFilter(m.getResources().getColor(R.color.accent_dark_yellow));
+//                txtTitle.setTypeface(txtTitle.getTypeface(), Typeface.BOLD);
+               txtTitle.setTextColor(m.getResources().getColor(android.R.color.black));
+
+                // txtTitle.setTextColor(Color.parseColor(BaseActivity.accentSkin));
             } else {
                 if (m.theme1 == 0) {
                     imageView.setColorFilter(Color.parseColor("#666666"));

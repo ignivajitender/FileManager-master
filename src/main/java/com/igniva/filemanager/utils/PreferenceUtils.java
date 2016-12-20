@@ -32,7 +32,7 @@ public class PreferenceUtils {
     private static String BLACK="#212121";
     private static String GREY="#607d8b";
     private static String SUPER_SU="#004d40";
-    private static String YELLOW = "#ffd600";
+    private static String YELLOW = "#ffc400";
     // Colors Patch 1 END
 
     // Colors Patch 2
@@ -67,7 +67,7 @@ public class PreferenceUtils {
     public static final String KEY_CURRENT_TAB = "current_tab";
 
     public static final int DEFAULT_PRIMARY = 4;
-    public static final int DEFAULT_ACCENT = 1;
+    public static final int DEFAULT_ACCENT = 8;
     public static final int DEFAULT_ICON = -1;
     public static final int DEFAULT_CURRENT_TAB = 1;
 
@@ -77,7 +77,7 @@ public class PreferenceUtils {
     }
 
     public static int getStatusColor(int skin) {
-        int c=darker(skin,0.1f);
+        int c=darker(skin,0.3f);
         return c;
     }
 

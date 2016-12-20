@@ -17,7 +17,7 @@
 <resources>
     <style name="menu_labels_style_light">
         <item name="android:textStyle">bold</item>
-        <item name="android:background">@color/accent_yellow</item>
+        <item name="android:background">@drawable/fab_label_background</item>
         <item name="android:textColor">#ffffff</item>
     </style>
 
@@ -183,4 +183,14 @@
     <style name="pref_accent_dark_super_su" parent="appCompatDark">
         <item name="colorAccent">@color/accent_super_su</item>
     </style>
+    <style name="MenuButtonsStyle">
+        <item name="fab_size">mini</item>
+        <!--<item name="fab_showAnimation">@anim/jump_from_down</item>-->
+        <!--<item name="fab_hideAnimation">@anim/jump_to_down</item>-->
+        <item name="fab_shadowColor">#444</item>
+        <item name="fab_colorNormal">@color/accent_yellow</item>
+        <item name="fab_colorPressed">@color/accent_yellow</item>
+        <item name="fab_colorRipple">@color/accent_yellow</item>
+    </style>
+
 </resources>

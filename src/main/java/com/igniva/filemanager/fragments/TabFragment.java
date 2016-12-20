@@ -86,6 +86,7 @@ public class TabFragment extends android.support.v4.app.Fragment
         if (Build.VERSION.SDK_INT>=Build.VERSION_CODES.LOLLIPOP) {
 
             indicator = (Indicator) getActivity().findViewById(R.id.indicator);
+           // indicator.setBackgroundColor(getResources().getColor(R.color.accent_blue));
         } else {
             circleDrawable1 = (ImageView) getActivity().findViewById(R.id.tab_indicator1);
             circleDrawable2 = (ImageView) getActivity().findViewById(R.id.tab_indicator2);
@@ -394,11 +395,11 @@ public class TabFragment extends android.support.v4.app.Fragment
     void updateIndicator(int index) {
         if (index != 0 && index != 1) return;
         if (index == 0) {
-            circleDrawable1.setImageDrawable(new ColorCircleDrawable(Color.parseColor(BaseActivity.accentSkin)));
+            circleDrawable1.setImageDrawable(new ColorCircleDrawable(getResources().getColor(R.color.accent_blue)));
             circleDrawable2.setImageDrawable(new ColorCircleDrawable(Color.GRAY));
             return;
         } else {
-            circleDrawable1.setImageDrawable(new ColorCircleDrawable(Color.parseColor(BaseActivity.accentSkin)));
+            circleDrawable1.setImageDrawable(new ColorCircleDrawable(getResources().getColor(R.color.accent_blue)));
             circleDrawable2.setImageDrawable(new ColorCircleDrawable(Color.GRAY));
             return;
         }

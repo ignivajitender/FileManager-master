@@ -1196,7 +1196,10 @@ public class Main extends android.support.v4.app.Fragment {
                     }
                 else if (CURRENT_PATH.equals("/") || CURRENT_PATH.equals(home)) {
                    // Toast.makeText(getActivity(), "finish...", Toast.LENGTH_SHORT).show();
-                    showInterstitial();
+
+                    if(MAIN_ACTIVITY.backPressedToExitOnce) {
+                        showInterstitial();
+                    }
                        MAIN_ACTIVITY.exit();
                 }
 
