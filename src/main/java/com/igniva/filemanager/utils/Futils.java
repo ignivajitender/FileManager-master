@@ -597,7 +597,7 @@ public void openWith(final File f,final Context c) {
         c.callback(new MaterialDialog.ButtonCallback() {
             @Override
             public void onPositive(MaterialDialog materialDialog) {
-                Toast.makeText(b.getActivity(), getString(b.getActivity(), R.string.deleting), Toast.LENGTH_SHORT).show();
+                //Toast.makeText(b.getActivity(), getString(b.getActivity(), R.string.deleting), Toast.LENGTH_SHORT).show();
                 b.MAIN_ACTIVITY.mainActivityHelper.deleteFiles(todelete);
             }
 

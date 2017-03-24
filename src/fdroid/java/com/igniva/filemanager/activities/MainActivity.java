@@ -244,6 +244,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
     public static int currentTab;
 
     public static boolean isSearchViewEnabled = false;
+    InterstitialAd mInterstitialAd;
 
 
     /**
@@ -251,6 +252,8 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
      */
     @Override
     public void onCreate(Bundle savedInstanceState) {
+
+
         super.onCreate(savedInstanceState);
         initialisePreferences();
         DataUtils.registerOnDataChangedListener(this);
@@ -424,6 +427,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
             ((Activity) this).setTaskDescription(taskDescription);
         }
         showBannerAdd();
+        showAd();
     }
 
     /**
@@ -969,6 +973,8 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
                 break;
             case R.id.item3:
                 finish();
+
+                showInterstitial();
                 break;
             case R.id.item10:
                 Fragment fragment = getDFragment();
@@ -1002,6 +1008,7 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
                 break;
             case R.id.view:
                 if (ma.IS_LIST) {
+
                     if (DataUtils.listfiles.contains(ma.CURRENT_PATH)) {
                         DataUtils.listfiles.remove(ma.CURRENT_PATH);
                         grid.removePath(ma.CURRENT_PATH, DataUtils.LIST);
@@ -2623,5 +2630,41 @@ public class MainActivity extends BaseActivity implements OnRequestPermissionsRe
         }
 
     }
+    void showAd()
+    {
+        mInterstitialAd = new InterstitialAd(MainActivity.this);
+
+        // set the ad unit ID
+        mInterstitialAd.setAdUnitId(getString(R.string.interstitial_full_screen));
+
+        AdRequest adRequest = new AdRequest.Builder()
+                .build();
+
+        // Load ads into Interstitial Ads
+        mInterstitialAd.loadAd(adRequest);
+
+        mInterstitialAd.setAdListener(new AdListener() {
+            public void onAdLoaded() {
+                //  showInterstitial();
+            }
+        });
+
+    }
+    private void showInterstitial() {
+        try {
+            if (mInterstitialAd.isLoaded()) {
+                mInterstitialAd.show();
+            }
+            else
+            {
+                Log.e("Show ad----","Loading....");
+            }
+        }
+        catch(Exception e)
+        {
+            e.printStackTrace();
+        }
+    }
+
 
 }

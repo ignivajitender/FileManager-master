@@ -136,6 +136,7 @@ public class Recycleradapter extends RecyclerArrayAdapter<String, RecyclerView.V
             main.mActionMode.finish();
             main.mActionMode = null;
         }
+
     }
 
     public void toggleChecked(boolean b,String path) {

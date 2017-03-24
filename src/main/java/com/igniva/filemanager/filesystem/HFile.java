@@ -86,7 +86,7 @@ public class HFile {
         return mode==ROOT_MODE;
     }
     public boolean isSmb(){
-        return mode==SMB_MODE;
+        return mode == SMB_MODE;
     }
     File getFile(){return new File(path);}
     BaseFile generateBaseFileFromParent(){

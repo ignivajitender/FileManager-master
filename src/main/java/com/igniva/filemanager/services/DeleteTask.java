@@ -96,7 +96,7 @@ public class DeleteTask extends AsyncTask<ArrayList<BaseFile>, String, Boolean> 
         }if (!b) {
             Toast.makeText(cd, utils.getString(cd, R.string.error), Toast.LENGTH_SHORT).show();
         } else if (zipViewer==null) {
-            Toast.makeText(cd, utils.getString(cd, R.string.done), Toast.LENGTH_SHORT).show();
+           // Toast.makeText(cd, utils.getString(cd, R.string.done), Toast.LENGTH_SHORT).show();
         }
         if (zipViewer!=null) {
             zipViewer.files.clear();

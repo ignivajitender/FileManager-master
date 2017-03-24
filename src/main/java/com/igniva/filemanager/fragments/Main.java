@@ -217,6 +217,8 @@ public class Main extends android.support.v4.app.Fragment {
         CIRCULAR_IMAGES = Sp.getBoolean("circularimages", true);
         SHOW_LAST_MODIFIED = Sp.getBoolean("showLastModified", true);
         icons = new IconUtils(Sp, getActivity());
+
+
     }
 
     @Override
@@ -346,7 +348,7 @@ public class Main extends android.support.v4.app.Fragment {
         footerView = getActivity().getLayoutInflater().inflate(R.layout.divider, null);
         dividerItemDecoration = new DividerItemDecoration(getActivity(), DividerItemDecoration.VERTICAL_LIST, false, SHOW_DIVIDERS);
         listView.addItemDecoration(dividerItemDecoration);
-        mSwipeRefreshLayout.setColorSchemeColors(Color.parseColor(fabSkin));
+        mSwipeRefreshLayout.setColorSchemeColors(getResources().getColor(R.color.accent_yellow));
         DefaultItemAnimator animator = new DefaultItemAnimator();
         listView.setItemAnimator(animator);
         mToolbarContainer.getViewTreeObserver().addOnGlobalLayoutListener(new ViewTreeObserver.OnGlobalLayoutListener() {

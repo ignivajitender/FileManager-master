@@ -61,8 +61,7 @@ public class HiddenAdapter extends ArrayAdapter<HFile> {
         View view;
         final int p = position;
         if (convertView == null) {
-            LayoutInflater mInflater = (LayoutInflater) c
-                    .getSystemService(Activity.LAYOUT_INFLATER_SERVICE);
+            LayoutInflater mInflater = (LayoutInflater) c.getSystemService(Activity.LAYOUT_INFLATER_SERVICE);
             view = mInflater.inflate(R.layout.bookmarkrow, null);
             final ViewHolder vholder = new ViewHolder();
             vholder.txtTitle = (TextView) view.findViewById(R.id.text1);
